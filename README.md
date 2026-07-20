@@ -23,7 +23,7 @@ Full-stack dev (PHP · JS · React · Node) | Built real-time chat apps, e-comme
 
 | | |
 |---|---|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Inayat-dev&show_icons=true&theme=dark&hide_border=true) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Inayat-dev&layout=compact&theme=dark&hide_border=true) |
+| ![](https://github-readme-stats.vercel.app/api?username=Inayat-dev&show_icons=true&theme=dark&hide_border=true) |
 ![Streak](https://streak-stats.demolab.com/?user=Inayat-dev&theme=dark&hide_border=true)
 
 ### 🔗 Connect with me

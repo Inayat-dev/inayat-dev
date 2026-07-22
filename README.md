@@ -21,10 +21,18 @@ Full-stack dev (PHP · JS · React · Node) | Built real-time chat apps, e-comme
 
 ### 📊 GitHub stats
 
+
 | | |
 |---|---|
 | ![](https://github-readme-stats.vercel.app/api?username=Inayat-dev&show_icons=true&theme=dark&hide_border=true) |
 ![Streak](https://streak-stats.demolab.com/?user=Inayat-dev&theme=dark&hide_border=true)
+
+<p align="center">
+
+![Inayat Bukera github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Inayat-dev&bg_color=000000&color=00ffee&line=ffffff&point=0008ff&area=true&hide_border=true)
+
+</p>
+
 
 ### 🔗 Connect with me
 
@@ -35,3 +43,6 @@ Full-stack dev (PHP · JS · React · Node) | Built real-time chat apps, e-comme
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/inayatbukera) [![Ko-fi](https://img.shields.io/badge/Ko-fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/inayatbukera) [![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Inayat-dev)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Inayat-dev&style=flat-square&color=3fb950)
+
+
+

@@ -19,7 +19,7 @@
 
 ## 👤 About Me
 
-I'm a **self-taught full-stack web developer**, currently pursuing my **BCA at Kamani Science College, Saurashtra University**.
+I'm a **self-taught full-stack web developer**, currently pursuing my **MCA at Silver Oak College, Silver Oak University**.
 
 I build production-ready web apps end to end — from real-time WebSocket chat platforms to full e-commerce systems and internal business tools.
 

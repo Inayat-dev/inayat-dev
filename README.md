@@ -9,18 +9,6 @@ Full-stack dev (PHP · JS · React · Node) | Built real-time chat apps, e-comme
 
 </div>
 
-<div style="width: 300px; padding: 20px; background-color: #1e293b; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); font-family: Arial, sans-serif;">
-    <h2 style="color: #38bdf8; margin: 0 0 10px 0;">Parent Node</h2>
-    <p style="color: #cbd5e1; margin: 0 0 10px 0;">Ye ek child paragraph hai.</p>
-    <ul style="color: #f1f5f9; padding-left: 20px;">
-        <li>Child node 1</li>
-        <li>Child node 2</li>
-        <li>Child node 3</li>
-    </ul>
-    <button style="background-color: #22c55e; color: white; border: none; padding: 8px 16px; border-radius: 6px; cursor: pointer;">
-        Click Me
-    </button>
-</div>
 
 ### 👤 About me
 

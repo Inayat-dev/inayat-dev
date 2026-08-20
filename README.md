@@ -39,7 +39,7 @@ I build production-ready web apps end to end — from real-time WebSocket chat p
 **⚡ Right Now**
 - 🔭 Working on: **YouTube Clone** *(MERN stack)*
 - 🌱 Learning: **Express.js**
-- 🎓 Studying: **BCA**, Saurashtra University
+- 🎓 Studying: **MCA**, Silver Oak University
 - 💬 Ask me about: **PHP, React, Node, WebSockets**
 
 </td>

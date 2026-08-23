@@ -30,7 +30,6 @@ I build production-ready web apps end to end — from real-time WebSocket chat p
 **🚀 Things I've Built**
 - ▶ **YouTube Clone** — REST API backend of youtube core functionality
 - 💬 **Metalink** — real-time WebSocket chat platform
-- 🛒 **Flipkart Clone** — full e-commerce system
 - 🧵 **Alsaad Shop** — WordPress e-commerce store *(client project)*
 - 📦 **Inventory Management System** — internal tool built during internship at **Rifat Enterprise**
 

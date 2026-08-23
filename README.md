@@ -28,6 +28,7 @@ I build production-ready web apps end to end — from real-time WebSocket chat p
 <td width="50%" valign="top">
 
 **🚀 Things I've Built**
+- ▶ **YouTube Clone** — REST API backend of youtube core functionality
 - 💬 **Metalink** — real-time WebSocket chat platform
 - 🛒 **Flipkart Clone** — full e-commerce system
 - 🧵 **Alsaad Shop** — WordPress e-commerce store *(client project)*
@@ -37,7 +38,7 @@ I build production-ready web apps end to end — from real-time WebSocket chat p
 <td width="50%" valign="top">
 
 **⚡ Right Now**
-- 🔭 Working on: **YouTube Clone** *(MERN stack)*
+- 🔭 Working on: **YouTube Clone** *(React JS)*
 - 🌱 Learning: **Express.js**
 - 🎓 Studying: **MCA**, Silver Oak University
 - 💬 Ask me about: **PHP, React, Node, WebSockets**

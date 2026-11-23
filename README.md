@@ -82,7 +82,6 @@ I build production-ready web apps end to end — from real-time WebSocket chat p
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Inayat-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0F2027&title_color=00FFEE&icon_color=00FFEE&count_private=true"/>
   <img height="165" src="https://streak-stats.demolab.com/?user=Inayat-dev&theme=dark&hide_border=true&background=0F2027&ring=00FFEE&fire=00FFEE&currStreakLabel=00FFEE"/>
 </p>
 
